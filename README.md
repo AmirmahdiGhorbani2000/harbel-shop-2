@@ -50,8 +50,8 @@ Controllers (منطق تجاری) → Models (لایه داده) → Routes (API
 ## نصب و راه‌اندازی
 
 ```bash
-git clone https://github.com/yourusername/herbal-shop.git
-cd herbal-shop
+git clone https://github.com/AmirmahdiGhorbani2000/harbel-shop-2.git
+cd harbel-shop
 npm run install:all
 ```
 
